@@ -1,0 +1,91 @@
+=== Frequency table (ciphertext) ===
+Total letters: 176
+
+Rank Letter    Count    Percent
+----------------------------------
+   1      T       22    12.500%
+   2      L       16     9.091%
+   3      Z       16     9.091%
+   4      G       11     6.250%
+   5      S       11     6.250%
+   6      F       10     5.682%
+   7      I       10     5.682%
+   8      O       10     5.682%
+   9      K        8     4.545%
+  10      Q        8     4.545%
+  11      E        7     3.977%
+  12      X        7     3.977%
+  13      D        6     3.409%
+  14      H        5     2.841%
+  15      N        5     2.841%
+  16      U        5     2.841%
+  17      B        3     1.705%
+  18      J        3     1.705%
+  19      Y        3     1.705%
+  20      A        2     1.136%
+  21      R        2     1.136%
+  22      V        2     1.136%
+  23      C        1     0.568%
+  24      M        1     0.568%
+  25      P        1     0.568%
+  26      W        1     0.568%
+
+=== English frequency (reference) ===
+E: 12.70%
+T: 9.06%
+A: 8.17%
+O: 7.51%
+I: 6.97%
+N: 6.75%
+S: 6.33%
+H: 6.09%
+R: 6.00%
+D: 4.25%
+L: 4.03%
+C: 2.78%
+U: 2.76%
+M: 2.41%
+W: 2.36%
+F: 2.23%
+G: 2.02%
+Y: 1.97%
+P: 1.93%
+B: 1.49%
+V: 0.98%
+K: 0.77%
+J: 0.15%
+X: 0.15%
+Q: 0.10%
+Z: 0.07%
+
+=== Current mapping (cipher -> plain) ===
+A -> B
+B -> G
+C -> J
+D -> U
+E -> L
+F -> N
+G -> O
+H -> M
+I -> S
+J -> Y
+K -> R
+L -> T
+M -> X
+N -> W
+O -> H
+P -> Q
+Q -> D
+R -> V
+S -> I
+T -> E
+U -> F
+V -> K
+W -> Z
+X -> C
+Y -> P
+Z -> A
+
+=== Decrypted text (using current mapping) ===
+
+ASE YCHLB ZROKN POG QCUMT OJER ASE IDXW VOF. ASHT TDUMIE AEGA HT IONF ENOCFS AO AETA PREYCENLW DNDIWTHT. PREYCENLW DNDIWTHT SEIMT FCETT KSHLS LHMSERAEGA IEAAERT UDM AO LOUUON ENFIHTS IEAAERT IHBE E A D O H N T S R V I L C U.
